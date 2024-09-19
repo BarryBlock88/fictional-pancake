@@ -1,7 +1,7 @@
 // Flashcards Data
 const flashcards = [
-    {latin: 'Femur', image: 'femur.png'},
-    {latin: 'Cranium', image: 'cranium.png'},
+    {latin: 'Femur', src="https://tse4.mm.bing.net/th?id=OIP.FWnPHKdkK_eSngZ6-2ME6QHaHz&pid=Api"},
+    {latin: 'Cranium', src="https://image.jimcdn.com/app/cms/image/transf/none/path/s97cfb0343e1774e6/image/icc69a4db89a64ddc/version/1511023481/cranium-skull.jpg},
     {latin: 'Humerus', image: 'humerus.png'},
     {latin: 'Patella', image: 'patella.png'},
     {latin: 'Clavicula', image: 'clavicula.png'},
